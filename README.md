@@ -8,7 +8,7 @@
 ###### By manipulating database systems and using big data technologies to study topics such as predictive analysis on trades we can identify potential financial fraud.
 
 ###### This includes:
-###### Loading files through pyspark and creating multiple folders to store and load files from in Microsoft Azure
+###### Loading files through pyspark and creating multiple folders to process 'Big' data using Microsoft Azure and DataBricks
 
 
 #### All codes use the ideas and help provided by the professor in class. 
